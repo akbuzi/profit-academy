@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://Akbuzi.github.io/profit-academy/sitemap.xml
